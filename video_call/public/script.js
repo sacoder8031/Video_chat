@@ -216,7 +216,7 @@ function stopScreenShare() {
 
 
 function pageRedirect() {
-    window.location.href = "https://www.tutorialrepublic.com/";
+    window.location.href = `https://chatsharabh.herokuapp.com/${ROOM_ID}`;
   }      
 
 
